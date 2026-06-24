@@ -4,6 +4,7 @@
  I want to become an **AI consultant**, improve my *problem-solving skills* and learn how to use ~~Git~~effectively.
 
  ##Links
+ 
 [My Github Profile](https://github.com/collinsnderitugitonga)
 
 ![Useful website](https://www.youtube.com/watch?v=dlKkFQQg9_Q&pp=ygUWYmVzdCBxdW90ZXMgYWJvdXQgbGlmZQ%3D%3D)
