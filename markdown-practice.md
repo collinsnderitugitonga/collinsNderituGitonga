@@ -27,14 +27,14 @@
 | Git  | Version control | https://git-scm.com  |
 | Github    | Code hosting  | https://github.com  |
 
-##Task List
+## Task List
 
 - [x] Create a Github account
 - [x] Install Git
 - [ ] Learn Markdown
 - [ ] Build a portfolio website
 
-##Code Block
+## Code Block
 ```python
 print("Hey, world!")
 ```
