@@ -1,7 +1,7 @@
 ## My Learning Goals
 ### This Semester
 
- I want to become an **AI consultant**, improve my *problem-solving skills* and learn how to use ~~Git~~effectively.
+ I want to become an **AI consultant**, improve my *problem-solving skills* and learn how to use ~~Git~~ effectively.
 
  ## Links
  
