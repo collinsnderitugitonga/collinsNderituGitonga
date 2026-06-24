@@ -3,24 +3,24 @@
 
  I want to become an **AI consultant**, improve my *problem-solving skills* and learn how to use ~~Git~~effectively.
 
- ##Links
+ ## Links
  
 [My Github Profile](https://github.com/collinsnderitugitonga)
 
 ![Useful website](https://www.youtube.com/watch?v=dlKkFQQg9_Q&pp=ygUWYmVzdCBxdW90ZXMgYWJvdXQgbGlmZQ%3D%3D)
 
-###Things I want to learn 
+### Things I want to learn 
 - Git and GitHub
 - Python programming
 - Web development
   
-###Steps to make a commit in git
+### Steps to make a commit in git
 1. Make changes to a file.
 2. Stage the changes using 'git add.'
 3. Commit the changes using 'git commit -m "message"'
 4. Push the changes using "git push'
 
-##Table
+## Table
 
 | Tool    | Purpose    | Links  |
 |---------|-----------|----------|
@@ -39,13 +39,15 @@
 print("Hey, world!")
 ```
 
-##Blockquote
+## Blockquote
 >Success comes from consistent learning and practice.
 
-##About Me 
+## About Me 
+
 My name is Collins. I am interested in **Computer Science** and *Software Engineering*. I am currently learning 'git' and github.
 
-###My skills
+### My skills
+
 -Communication
 -Teamwork
 -Problem solving
